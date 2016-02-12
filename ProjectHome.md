@@ -1,0 +1,1 @@
+JavaTemplates.com script source for blogger template
